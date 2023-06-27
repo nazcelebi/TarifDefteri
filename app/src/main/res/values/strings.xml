@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Tarif Defteri</string>
+    <string name="tarif">Tarif</string>
+    <string name="defteri">Defteri</string>
+    <string name="vegetable">vegetable</string>
+    <string name="malzeme">Malzemeler</string>
+    <string name="yapilisi">Yapılışı</string>
+
+</resources>
